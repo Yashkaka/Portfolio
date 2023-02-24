@@ -5,8 +5,8 @@
   "scripts": {
     "debug": "NODE_OPTIONS='--openssl-legacy-provider' next dev -p 5000",
     "dev": "next dev",
-"start": "next-scripts --openssl-legacy-provider start" ,
-"build": "next-scripts --openssl-legacy-provider build"
+    "build": "next build && next export",
+    "start": "next start"
  },
   "dependencies": {
     "next": "10.2.3",
