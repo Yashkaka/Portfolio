@@ -46,8 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
-      </SectionText>
+      I am currently pursuing B.E at Vivekanand Education Society Institute of Technology, majoring in Computer Engineering. I am a passionate programmer competing across different platforms. I have keen interest in Full Stack Development. I love exploring evolving technologies and constantly strive to improve my technical competency. There is yet more to learn and explore!      </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
