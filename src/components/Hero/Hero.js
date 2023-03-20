@@ -37,7 +37,7 @@ const Hero = (props) => (
           />
         </SectionTitle>
       
-        <Button onClick={() => window.location = 'https://drive.google.com/file/d/1WYxTTTcHNXlbim2VEhUicty2n1e9EPqO/view?usp=sharing'}>Resume</Button>
+        <Button onClick={() => window.location = 'https://drive.google.com/file/d/1w9BexREHDM0S6orFytYZXcDIjG16ufCQ/view?usp=sharing'}>Resume</Button>
       </LeftSection>
     </Section>
   </>
