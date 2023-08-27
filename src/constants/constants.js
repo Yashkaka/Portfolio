@@ -12,7 +12,7 @@ export const projects = [
   {
     title: 'Cervical Spine Fracture Detection',
     description:"An automated computer-aided diagnosis system that can accurately identify the fracture and prescribe corrective measures at the earliest.",
-    image: 'https://i.ibb.co/NptsB4L/home.png',
+    image: 'https://i.ibb.co/ggFS5nF/spine.png',
     tags: ['Django', 'Tensorflow','Python','MySQL'],
     visit: 'https://github.com/Yashkaka/Spine_Fracture_detection',
     id: 1,
