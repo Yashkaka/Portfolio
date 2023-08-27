@@ -4,7 +4,7 @@ export const projects = [
   {
     title: 'Pet Grooming',
     description:"A Website for pet owners to take care of their pet grooming.It provides information about pet care also provides e-commerce store for products related to pet  ",
-      image: 'https://ibb.co/Qnpfw56',
+      image: 'https://i.ibb.co/NptsB4L/home.png',
       tags: ['HTML', 'CSS', 'Javascript', 'PHP','MYSQL'],
     visit: 'https://github.com/Yashkaka/Pet_Grooming',
     id: 0,
